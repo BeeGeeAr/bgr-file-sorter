@@ -1,0 +1,10 @@
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Virtual environment
+venv/
+
+# Auto-generated logs/configs
+sort_log.csv
