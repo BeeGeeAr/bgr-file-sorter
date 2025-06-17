@@ -1,0 +1,10 @@
+# List all folders to monitor
+# One folder path per line
+# Lines starting with '#' are ignored
+
+C:\Users\BGR\Downloads
+C:\Desktop
+D:\OneDrive - OGIS Philippines Inc
+D:\OneDrive
+D:\OGIS Philippines Inc
+D:\BGR
